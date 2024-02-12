@@ -1,4 +1,4 @@
-# Dynamic Weather App#
+# Dynamic Weather App
 ## A visually appealing React weather application that presents current weather conditions and utilizes Unsplash's API to display dynamically changing backgrounds based on the weather. 
 
 
