@@ -3,7 +3,6 @@
 ## 
 
 ### Key Features:
-### 
 * Up-to-date Weather Information:Displays current weather data, including temperature, description, and location. 
 * Dynamic Backgrounds: Fetches relevant images from Unsplash to create an immersive experience, with backgrounds reflecting the current weather conditions.
 * User-friendly Search: Simple search form to easily look up weather information for different cities worldwide. 
